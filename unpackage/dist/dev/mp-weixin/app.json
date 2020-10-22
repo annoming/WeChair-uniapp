@@ -7,36 +7,30 @@
   ],
   "subPackages": [],
   "window": {
-    "navigationBarTextStyle": "white",
+    "navigationBarTextStyle": "black",
     "navigationBarTitleText": "uni-app",
-    "navigationBarBackgroundColor": "#007AFF",
+    "navigationBarBackgroundColor": "#FFFFFF",
     "backgroundColor": "#FFFFFF"
   },
   "tabBar": {
+    "selectedColor": "#316877",
+    "color": "#CCCCCC",
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "首页",
-        "iconPath": "",
-        "selectedIconPath": ""
+        "text": "首页"
       },
       {
         "pagePath": "pages/seat/seat",
-        "text": "闪座",
-        "iconPath": "",
-        "selectedIconPath": ""
+        "text": "闪座"
       },
       {
         "pagePath": "pages/info/info",
-        "text": "记录",
-        "iconPath": "",
-        "selectedIconPath": ""
+        "text": "记录"
       },
       {
         "pagePath": "pages/home/home",
-        "text": "我的",
-        "iconPath": "",
-        "selectedIconPath": ""
+        "text": "我的"
       }
     ]
   },
