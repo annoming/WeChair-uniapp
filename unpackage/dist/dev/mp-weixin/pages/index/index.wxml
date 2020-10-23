@@ -1,1 +1,1 @@
-<view class="index"><swiper><swiper-item><image src="../../static/images/swipers/book1.jpeg"></image></swiper-item></swiper><view><view></view><view></view><view></view><view></view></view></view>
+<view class="index"><swiper><swiper-item><image src="../../static/images/swipers/1.jpeg"></image></swiper-item></swiper><view class="nav"><view class="title"></view><view class="nav-list"><view class="nav-item"></view><view class="nav-item"></view><view class="nav-item"></view><view class="nav-item"></view></view></view></view>

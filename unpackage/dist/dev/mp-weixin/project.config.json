@@ -10,6 +10,8 @@
   "libVersion": "",
   "appid": "wxc5e747c5efae300d",
   "projectname": "WeChair-uniapp",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
   "condition": {
     "search": {
       "list": []
